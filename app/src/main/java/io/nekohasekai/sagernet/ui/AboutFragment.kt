@@ -51,6 +51,7 @@ import java.io.PrintWriter
 
 class AboutFragment : ToolbarFragment(R.layout.layout_about) {
 
+
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
